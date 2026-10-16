@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 707c5d3807643ef448927b1966877d29, type: 3}
+  m_Name: Hoe
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemID: hue
+  itemName: "Cu\u1ED1c \u0111\u1EA5t"
+  icon: {fileID: -8372649817313836828, guid: 7164b494652cb0f4e84e528b191c94ee, type: 3}
+  description: "C\xE1i cu\u1ED1c l\xE0m b\u1EB1ng kim c\u01B0\u01A1ng, d\xF9ng \u0111\u1EC3
+    ch\u1EB7t \u0111\u1EA5t th\xEC s\u01B0\u1EDBng tay th\xF4i r\u1ED3i. Si\xEAu
+    \u0111\u1EAFt!"
+  maxStack: 3
+  collectablePrefab: {fileID: 6179942558298882433, guid: 431f92f4c798a26498770096c4176935, type: 3}
+  itemCategory: 1
+  toolType: 1

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 707c5d3807643ef448927b1966877d29, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemID: carrot
+  itemName: "C\xE0 r\u1ED1t"
+  icon: {fileID: -3829704256182829468, guid: 8c285f540f969f1438fe573fa118fd14, type: 3}
+  description: "C\xE2y tr\u1ED3ng ng\u1EAFn ng\xE0y, gi\xE1 h\u1EA1t gi\u1ED1ng r\u1EBB,
+    th\u1EDDi gian thu ho\u1EA1ch nhanh (1\u20133 ng\xE0y). C\u1EE7 m\xE0u cam t\u01B0\u01A1i
+    nh\xF4 kh\u1ECFi m\u1EB7t \u0111\u1EA5t khi ch\xEDn, gi\xFAp ng\u01B0\u1EDDi
+    ch\u01A1i \u0111\u1EA7u game d\u1EC5 xoay v\u1ED1n, h\u1ED3i n\u0103ng l\u01B0\u1EE3ng,
+    l\xE0m th\u1EE9c \u0103n cho gia s\xFAc"
+  maxStack: 99
+  collectablePrefab: {fileID: 4649558939160839572, guid: 666d9146407429047927479a32be6bec, type: 3}
+  itemCategory: 0
+  toolType: 0
+  buyPrice: 100
+  sellPrice: 110

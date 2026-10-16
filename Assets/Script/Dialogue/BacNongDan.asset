@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688556ddbb7f85447a89d6cf8f46034e, type: 3}
+  m_Name: BacNongDan
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  npcName: "B\xE1c N\xF4ng D\xE2n"
+  npcPortrait: {fileID: -8204510096060017400, guid: 8eadf52a2274a4941ab08afa59a01bb9, type: 3}
+  lines:
+  - text: "Ch\xE0o ch\xE1u! Ta t\xEAn l\xE0 Hu\u1EA5n N\xF4ng D\xE2n"
+    choices: []
+  - text: "Ch\xE1u mu\u1ED1n giao d\u1ECBch c\xE1i g\xEC v\u1EDBi ta h\u1EA3?"
+    choices:
+    - choiceText: "Ch\xE1u mu\u1ED1n trao \u0111\u1ED5i v\u1EDBi ch\xFA m\u1ED9t
+        s\u1ED1 m\xF3n \u0111\u1ED3"
+      nextLineIndex: 3
+    - choiceText: "D\u1EA1 th\xF4i ch\xE1u kh\xF4ng c\u1EA7n n\u1EEFa!"
+      nextLineIndex: 4
+  - text: "H\xF4 h\xF4 h\xF4 ! C\xF3 l\xE0m th\xEC m\u1EDBi c\xF3 \u0103n!"
+    choices: []
+  - text: "\u0110\u01B0\u1EE3c r\u1ED3i, \u0111\xE2y l\xE0 m\u1ED9t s\u1ED1 m\xF3n
+      h\xE0ng m\xE0 ta \u0111\u1EC3 d\xE0nh ri\xEAng cho ch\xE1u \u0111\u1EA5y"
+    choices: []
+  - text: "N\u1EBFu kh\xF4ng c\xF3 chuy\u1EC7n g\xEC th\xEC \u0111\u1EEBng t\u1EDBi
+      l\xE0m phi\u1EC1n ta n\u1EEFa!"
+    choices: []

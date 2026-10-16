@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 707c5d3807643ef448927b1966877d29, type: 3}
+  m_Name: Cabbage
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemID: cabbage
+  itemName: "B\u1EAFp c\u1EA3i"
+  icon: {fileID: -2785533952315014158, guid: 14dcee14d6ac31d4ab551cfcd4703df5, type: 3}
+  description: "C\xE2y tr\u1ED3ng cu\u1ED9n l\xE1 tr\xF2n x\xF2e to, s\u1EA3n l\u01B0\u1EE3ng
+    thu ho\u1EA1ch cao. Th\u01B0\u1EDDng d\xF9ng \u0111\u1EC3 l\xE0m nguy\xEAn li\u1EC7u
+    cho c\xE1c m\xF3n salad, mu\u1ED1i chua (kimchi/sauerkraut) ho\u1EB7c giao c\xE1c
+    \u0111\u01A1n h\xE0ng n\xF4ng s\u1EA3n l\u1EDBn."
+  maxStack: 99

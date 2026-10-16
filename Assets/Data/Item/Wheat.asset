@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 707c5d3807643ef448927b1966877d29, type: 3}
+  m_Name: Wheat
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemID: wheat
+  itemName: "L\xFAa m\xEC"
+  icon: {fileID: -666870068449178133, guid: 3d33b72cf950d9642b4a7eb9c69ebfc6, type: 3}
+  description: "C\xE2y ng\u0169 c\u1ED1c c\u01A1 b\u1EA3n nh\u1EA5t, th\u1EDDi gian
+    sinh tr\u01B0\u1EDFng c\u1EF1c nhanh v\xE0 gi\xE1 h\u1EA1t gi\u1ED1ng si\xEAu
+    r\u1EBB. D\xF9ng \u0111\u1EC3 xay th\xE0nh b\u1ED9t m\xEC l\xE0m b\xE1nh, cung
+    c\u1EA5p r\u01A1m r\u1EA1/c\u1ECF kh\xF4 cho gia s\xFAc v\xE0 ch\u1EBF t\u1EA1o
+    bia."
+  maxStack: 99
+  collectablePrefab: {fileID: 5716717954750115694, guid: f54e7344668946f4bb139d9de0355a2b, type: 3}

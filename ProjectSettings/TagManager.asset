@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MatDat
+    uniqueID: 1819905713
+    locked: 0
+  - name: PhiaTruoc
+    uniqueID: 229303725
+    locked: 0
+  - name: KetCau
+    uniqueID: 1416773013
+    locked: 0
+  - name: NguoiChoi
+    uniqueID: 3062036751
+    locked: 0
+  - name: PhiaSau
+    uniqueID: 664851211
+    locked: 0
+  - name: TrangTri
+    uniqueID: 1807378625
+    locked: 0
+  - name: Item
+    uniqueID: 1523633965
+    locked: 0
+  - name: Cursor
+    uniqueID: 3465885171
+    locked: 0
+  m_RenderingLayers:
+  - Default

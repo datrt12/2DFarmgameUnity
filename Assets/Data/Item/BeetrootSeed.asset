@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 707c5d3807643ef448927b1966877d29, type: 3}
+  m_Name: BeetrootSeed
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemID: carrotseed
+  itemName: "H\u1EA1t gi\u1ED1ng c\u1EE7 d\u1EC1n"
+  icon: {fileID: -110202509705018397, guid: a15116f60eb98264c9bc1b7dca1a8e8f, type: 3}
+  description: "H\u1EA1t gi\u1ED1ng c\u1EE7 d\u1EC1n. Gieo xu\u1ED1ng \u0111\u1EA5t
+    \u0111\xE3 cu\u1ED1c \u0111\u1EC3 thu ho\u1EA1chC\u1EE7 d\u1EC1n."
+  maxStack: 99
+  collectablePrefab: {fileID: 6179942558298882433, guid: c0cf47222cacdff4c9a5789029a7baa4, type: 3}
+  itemCategory: 2
+  toolType: 0
+  buyPrice: 500
+  sellPrice: 20
